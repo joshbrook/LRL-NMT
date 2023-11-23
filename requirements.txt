@@ -1,0 +1,12 @@
+numpy
+pandas
+tensorflow
+deep_translator
+flair 
+contractions 
+language_tool_python
+langid
+contractions
+nltk
+spacy
+gensim
